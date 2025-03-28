@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Power BI, Python**
 
-- 📝 I regularly write articles on [Productivity Tips | AI Tools](Productivity Tips | AI Tools)
+- 📝 I regularly write articles on **Productivity Tips | AI Tools**
 
 - 📫 How to reach me **hitha1996@gmail.com**
 
